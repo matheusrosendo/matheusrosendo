@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheusrosendo
-- 👀 I’m interested in Blockchain Technology, DEFI, Dapps, WEB3
-- 🌱 I’m currently learning Flashloan and Defi tools programatically
-- 💞️ I’m looking to collaborate on the blockchain revolution, looking for startups aiming to disrupt current financial system 
+- 👀 I’m interested in DEFI, Dapps, WEB3.0, real world applications powered by Blockchain
+- 🌱 I’m currently learning Hyperledger Fabric
+- 💞️ I’m looking for building new stuff using Blockchain and participate of this revolution 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/matheus-rosendo-21816197/)
 
 
